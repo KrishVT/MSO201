@@ -32,7 +32,7 @@ Base Case
 For n = 1 it is true as P(A1) = P(A1)  
 
 Assumption  
-A1 ⊂ A2 ⊂ A3 ..⊂An
+A1 ⊂ A2 ⊂ A3 ..⊂An  
 P(A1 ∪ A2 .... ∪ An) = P(An)  
   
 Now Proving for (n+1)  
@@ -45,4 +45,4 @@ Now again using (1)
 P(M ∪ A(n+1)) = P(A(n+1))  
 Hence Proved !!  
 # Q5  
-We can solve this using induction it is very similar to Q4
+We can solve this using induction and it is very similar to Q4
