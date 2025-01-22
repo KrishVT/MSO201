@@ -42,8 +42,8 @@ A(n+1) = M ∪ (A(n+1) - M) ---(1)
 P(M ∪ A(n+1)) = P(M ∪ M ∪ (A(n+1) - M))  
 P(M ∪ A(n+1)) = P(M ∪ (A(n+1) - M))  
 Now again using (1)  
-P(M ∪ A(n+1)) = P(A(n+1)) 
-Now just make n tend to infinity on both the sides of the equation.
+P(M ∪ A(n+1)) = P(A(n+1))   
+Now just make n tend to infinity on both the sides of the equation.   
 Hence Proved !!  
 # Q5  
 We can solve this using induction and it is very similar to Q4
